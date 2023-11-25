@@ -1,0 +1,5 @@
+Nombe;Apellido;dni;Telefono;Correo electrónico;Curso;Curso_descripcion;Curso_nota;BandaHoraria_nombre;BandaHoraria_horario_inicio;BandaHoraria_horario_fin
+Natalia;Lopez;55555666;1155554444;nati_lopez@jmail.com;Introduccion a python;Introduccion a la programacion con python;9;Tarde;14;16
+Nicolas;Lisandro;56888877;1155443456;nico_lopez@jmail.com;Diseño web;Diseño de paginas web;7;Noche;19;21
+Noelia;Lamas;57898000;1156667666;noe_lamas@jmail.com;Introduccion a python;Introduccion a la programacion con python;4;Noche;19;21
+Nicolas;Lisandro;56888877;1155443456;nico_lopez@jmail.com;Diseño web;Diseño de paginas web;7;Noche;19;21
